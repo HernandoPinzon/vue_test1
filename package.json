@@ -13,6 +13,8 @@
     "graphql": "^16.5.0",
     "graphql-request": "^4.3.0",
     "postcss": "^8",
+    "sass": "^1.54.0",
+    "sass-loader": "^13.0.2",
     "tailwindcss": "^3",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
